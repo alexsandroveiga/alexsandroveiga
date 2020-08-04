@@ -1,4 +1,4 @@
-<img width="auto" src=".github/profile.png">
+<img width="auto" src="./.github/profile.png">
 
 # Alexsandro Veiga
 
