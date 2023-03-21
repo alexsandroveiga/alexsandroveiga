@@ -1,5 +1,5 @@
 # Alexsandro Veiga
-### Jr. Developer Analyst @ Cognizant
+### Analista desenvolvedor pleno @ Mutant
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-15AB89?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/alexsandrodev)](https://twitter.com/alexsandrodev)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-15AB89?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsandroveiga)](https://www.linkedin.com/in/alexsandroveiga) 
